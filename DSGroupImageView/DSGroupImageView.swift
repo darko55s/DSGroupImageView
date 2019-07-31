@@ -57,6 +57,10 @@ class DSGroupImageView: UIView {
             fatalError("Datasource Method: NumberOfImagesInView notfound")
         }
 
+        if count > 4 {
+            fatalError("We support max 4 images at the moment!")
+        }
+
         var views = [String:Any]()
 
         for index in 0..<count {
