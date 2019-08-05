@@ -12,7 +12,7 @@ Simply drag and drop the **DSGroupImageView.swift** file inside your project in 
 
 ## Usage
 
-After adding the library to your poject open up your viewController and inicialize your array of image URL's that you want to use. Add DSGroupImageView in your storyboard or inicialize via code. Currently supporting 1 to 4 images maximum.
+After adding the library to your poject open up your viewController and initialize your array of image URL's that you want to use. Add DSGroupImageView in your storyboard or inicialize via code. Currently supporting 1 to 4 images maximum.
 
 ```Swift
   var images = ["https://randomuser.me/api/portraits/women/44.jpg","https://randomuser.me/api/portraits/women/42.jpg",     "https://randomuser.me/api/portraits/men/44.jpg"]
