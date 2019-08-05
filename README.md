@@ -32,3 +32,5 @@ Implement the DataSource methods like below:
    }
 ```
    
+## Dependences 
+[Kingfisher](https://github.com/onevcat/Kingfisher)
