@@ -34,4 +34,5 @@ Implement the DataSource methods like below:
    
 ## Dependences 
 [Kingfisher](https://github.com/onevcat/Kingfisher)
+
 [RandomColorSwift](https://github.com/onevcat/RandomColorSwift)
